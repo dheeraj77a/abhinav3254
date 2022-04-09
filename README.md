@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Android Apps](https://github.com/abhinav3254?tab=repositories)**
+- 🔭 I’m currently working on **[Java](https://github.com/abhinav3254?tab=repositories)**
 
-- 🌱 I’m currently Learning **[DSA](https://github.com/abhinav3254/Java-And-DSA)**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently Learning **[Java](https://github.com/abhinav3254/Java-And-DSA)**
 
 - 👨‍💻 All of my projects are available at **[Git Hub](https://github.com/abhinav3254/abhinav3254)**
 
-- 📫 How to reach me **abhinav3254@yahoo.com**
+- 📫 How to reach me **dheeraj77a@gmail.com**
 
 - ⚡ Fun fact **I Play Video Games very often.**
 
@@ -22,12 +20,9 @@
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a> 
-    <a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+    <a href="https://www.java.com" target="_blank"> <img src="    https://www.flaticon.com/free-icon/c_6132222?term=c&page=1&position=1&page=1&position=1&related_id=6132222&origin=search
+"/> </a>
+    
     </a>
     
 </p>
